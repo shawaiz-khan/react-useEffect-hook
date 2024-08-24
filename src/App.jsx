@@ -2,6 +2,7 @@ import './App.css'
 import UseEffectBasics from './useEffect Hooks/UseEffect-basics'
 import UseEffectCleanup from './useEffect Hooks/UseEffect-cleanup'
 import UseEffectFetch from './useEffect Hooks/UseEffect-fetch'
+import UseEffectMultipleReturns from './useEffect Hooks/UseEffect-multipleReturns'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           <UseEffectBasics />
           <UseEffectCleanup />
           <UseEffectFetch />
+          <UseEffectMultipleReturns />
         </div>
       </main>
     </>

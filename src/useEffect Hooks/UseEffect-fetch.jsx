@@ -20,7 +20,7 @@ export default function UseEffectFetch() {
 
     return (
         <main className="h-full w-full flex justify-center items-center bg-gray-100 py-10">
-            <div className="w-full p-6 bg-white shadow-lg rounded-lg">
+            <div className="w-full p-6 bg-white rounded-lg">
                 <h1 className="text-center text-3xl font-bold mb-8 text-gray-800">FETCH</h1>
                 <article className="flex justify-center">
                     <div className="w-[60rem] p-10">
